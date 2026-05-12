@@ -21,7 +21,7 @@ If you find our work useful in your research, please consider citing our paper:
 
 -----
 
-## 📜 License [TODO]
+## 📜 License
 
 This project is licensed under the MIT license.
 
