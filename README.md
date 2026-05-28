@@ -5,17 +5,23 @@ This repository contains the official implementation for the paper:
 **Lightweight and Robust Embedded Radar-based Gesture Recognition with Graph Neural Networks**,
 Manon Dampfhoffer, Umberto Pirovano, Régis Chanal,
 *Proceedings of the Computer Vision and Pattern Recognition Conference Workshops (CVPRW) 2026*
-**[Paper](TODO)** [TODO]
+**[Paper](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/papers/Dampfhoffer_Lightweight_and_Robust_Embedded_Radar-based_Gesture_Recognition_with_Graph_Neural_CVPRW_2026_paper.pdf)**
 
 ![overview](banniere.png)
 -----
 
-## 📄 Citation [TODO]
+## 📄 Citation
 
 If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{TODO
+@InProceedings{Dampfhoffer_2026_CVPR,
+    author    = {Dampfhoffer, Manon and Pirovano, Umberto and Chanal, Regis},
+    title     = {Lightweight and Robust Embedded Radar-based Gesture Recognition with Graph Neural Networks},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {7058-7066}
 }
 ```
 
